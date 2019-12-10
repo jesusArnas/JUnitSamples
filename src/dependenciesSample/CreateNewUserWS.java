@@ -18,4 +18,18 @@ public class CreateNewUserWS {
 		
 		return true;
 	}
+	
+	public boolean Execute(String name, String email, SendWelcomeEmailWebService ws)
+			throws Exception 
+	{
+		if (name == null)
+			throw new Exception("El nombre no es válido");
+		
+		if (email == null)
+			throw new Exception("El mail no es válido");
+		
+		ws.send();
+		
+		return true;
+	}
 }

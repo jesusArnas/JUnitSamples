@@ -9,5 +9,9 @@
 	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/httpcore-4.4.12.jar"/>
 	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/jackson-databind-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/mockito-core-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/byte-buddy-1.10.4.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/byte-buddy-agent-1.10.4.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/objenesis-3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

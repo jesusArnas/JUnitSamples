@@ -1,7 +1,7 @@
 package dependenciesWS;
 
 public class SendWelcomeEmailWebService {
-	public void send()
+	public boolean send()
 	{
 		throw new UnsupportedOperationException();
 	}
