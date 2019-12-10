@@ -5,5 +5,9 @@
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="lib" path="lib/hamcrest-2.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse-workspace/UnitTestSamples/lib/jackson-databind-2.10.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

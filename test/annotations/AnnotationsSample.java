@@ -12,8 +12,8 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.TestInstance.Lifecycle;
 
-//@TestInstance(Lifecycle.PER_CLASS)
-@TestInstance(Lifecycle.PER_METHOD)
+@TestInstance(Lifecycle.PER_CLASS)
+//@TestInstance(Lifecycle.PER_METHOD)
 public class AnnotationsSample {
 
 	private Date NOW = Calendar.getInstance().getTime();
